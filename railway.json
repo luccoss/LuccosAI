@@ -12,7 +12,7 @@
     "useLegacyStacker": false,
     "ipv6EgressEnabled": false,
     "multiRegionConfig": {
-      "europe-west4-drams3a": {
+      "iad": {
         "numReplicas": 1
       }
     },
